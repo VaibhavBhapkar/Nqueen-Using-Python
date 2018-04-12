@@ -48,7 +48,7 @@ def solveNQueen(brd,n,rw):
 	
 
 #no=int(input("Enter no of queens"))
-no=4
+no=8
 with open("input.json") as f:
 	data=json.load(f)
 
